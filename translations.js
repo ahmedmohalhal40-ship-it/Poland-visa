@@ -14,7 +14,7 @@ export const translations = {
     completedDocuments: 'Completed',
     remainingDocuments: 'Remaining',
     estimatedCompletion: 'Estimated completion',
-    todayRecommendation: 'Today’s recommendation',
+    todayRecommendation: 'Today's recommendation',
     nextDocument: 'Next document',
     upcomingDeadline: 'Upcoming deadline',
     quickStatistics: 'Quick statistics',
