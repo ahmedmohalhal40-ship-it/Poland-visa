@@ -259,8 +259,8 @@ export const DOCUMENT_DATABASE = [
   },
   {
     id: 'mogamma-certificate',
-    title_en: 'Mogamma Certificate',
-    title_ar: 'شهادة موجاما',
+    title_en: 'Movement Certificate and its Translation',
+    title_ar: 'شهادة التحركات وترجمتها',
     description_en: 'For first-time travellers or in case of passport loss, include a certificate covering the last 7 years.',
     description_ar: 'للمسافرين لأول مرة أو في حالة فقدان الجواز، أدرج شهادة تغطي السنوات السبع الماضية.',
     purpose: { en: 'Verify travel history when required.', ar: 'التحقق من سجل السفر عند الحاجة.' },
@@ -268,7 +268,7 @@ export const DOCUMENT_DATABASE = [
     category: 'conditional',
     priority: 'normal',
     icon: 'document',
-    google_search_query: 'Mogamma certificate Poland visa Egypt',
+    google_search_query: 'Movement certificate Poland visa Egypt',
     locations: [{ office: 'Mogamma', address: 'Cairo, Egypt', working_hours: 'Office hours' }]
   }
 ];
